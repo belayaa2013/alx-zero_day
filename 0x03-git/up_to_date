@@ -1,1 +1,1 @@
-add . commit -m push status checkout branch
+git pull
